@@ -1,0 +1,2 @@
+fifo_32_32_clk1_comtx.v,verilog,xil_defaultlib,../../../../pcileech_enigma_x1.gen/sources_1/ip/fifo_32_32_clk1_comtx/sim/fifo_32_32_clk1_comtx.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

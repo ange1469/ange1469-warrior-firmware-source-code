@@ -1,0 +1,2 @@
+bram_bar_zero4k.v,verilog,xil_defaultlib,../../../../pcileech_enigma_x1.gen/sources_1/ip/bram_bar_zero4k/sim/bram_bar_zero4k.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
